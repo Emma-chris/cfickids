@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cfickid.netlify.app/sitemap.xml
