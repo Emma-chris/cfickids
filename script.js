@@ -177,7 +177,7 @@ if (portfolioGrid) {
     milestones.forEach(m => {
         portfolioGrid.innerHTML += `
             <div class="relative impact-card group overflow-hidden rounded-[2rem]">
-                <img src="${m.img}" class="w-full h-full object-cover">
+                <img src="${m.img}" alt="${m.title} - ${m.category} Milestone at CFIckid" class="w-full h-full object-cover">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent p-8 flex flex-col justify-end">
                     <span class="text-rose-500 text-xs font-bold uppercase mb-2">${m.category}</span>
                     <h4 class="text-white text-2xl font-bold">${m.title}</h4>
