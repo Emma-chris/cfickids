@@ -17,7 +17,7 @@ const pillars = [
 
 // 3. Portfolio/Milestones Data
 const milestones = [
-    { title: "University Success", category: "Education", img: "https://images.unsplash.com/photo-1523050338692-7b835a07973f?q=80&w=800" },
+    { title: "University Success", category: "Education", img: "assets/leon-wu-LLfRMRT-9AY-unsplash.webp" },
     { title: "New Medical Wing", category: "Healthcare", img: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=800" },
     { title: "Arts Program", category: "Creativity", img: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=800" }
 ];
